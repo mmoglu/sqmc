@@ -1,0 +1,10 @@
+v 1.0.0
+d 'SQMC': Squared multiple correlation
+d 
+d Stata module to compute squared multiple correlation
+d 
+d Distribution-Date:   20211124
+d License: MIT
+d 
+F sqmc.ado
+F sqmc.sthlp
