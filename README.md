@@ -6,5 +6,6 @@ To be able to install the sqmc package, you need to type in the following comman
 ```
 . net install github, from("https://haghish.github.io/github/") #installs the github package
 ```
+```
 . github install mmoglu/sqmc #installs the sqmc package
 ```
